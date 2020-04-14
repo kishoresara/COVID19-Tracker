@@ -35,7 +35,7 @@
 		49DFD0092445253300142C3C /* 0.mov in Resources */ = {isa = PBXBuildFile; fileRef = 49DFD0082445253300142C3C /* 0.mov */; };
 		49DFD00B2445253D00142C3C /* 1.mov in Resources */ = {isa = PBXBuildFile; fileRef = 49DFD00A2445253D00142C3C /* 1.mov */; };
 		49DFD00D2445254300142C3C /* 2.mov in Resources */ = {isa = PBXBuildFile; fileRef = 49DFD00C2445254300142C3C /* 2.mov */; };
-		49DFD01324452C6400142C3C /* help.PNG in Resources */ = {isa = PBXBuildFile; fileRef = 49DFD01224452C6400142C3C /* help.PNG */; };
+		49DFD0152445F1A000142C3C /* help.PNG in Resources */ = {isa = PBXBuildFile; fileRef = 49DFD0142445F1A000142C3C /* help.PNG */; };
 		49E093BA23C910CD00703E61 /* MapViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49E093B923C910CD00703E61 /* MapViewController.swift */; };
 		49E093BC23C9A74000703E61 /* EventsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49E093BB23C9A74000703E61 /* EventsViewController.swift */; };
 		49E093BE23C9A75700703E61 /* MyEventsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49E093BD23C9A75700703E61 /* MyEventsViewController.swift */; };
@@ -76,7 +76,7 @@
 		49DFD0082445253300142C3C /* 0.mov */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; path = 0.mov; sourceTree = "<group>"; };
 		49DFD00A2445253D00142C3C /* 1.mov */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; path = 1.mov; sourceTree = "<group>"; };
 		49DFD00C2445254300142C3C /* 2.mov */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; path = 2.mov; sourceTree = "<group>"; };
-		49DFD01224452C6400142C3C /* help.PNG */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = help.PNG; path = ../../../../../../Downloads/help.PNG; sourceTree = "<group>"; };
+		49DFD0142445F1A000142C3C /* help.PNG */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = help.PNG; sourceTree = "<group>"; };
 		49E093B923C910CD00703E61 /* MapViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapViewController.swift; sourceTree = "<group>"; };
 		49E093BB23C9A74000703E61 /* EventsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EventsViewController.swift; sourceTree = "<group>"; };
 		49E093BD23C9A75700703E61 /* MyEventsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyEventsViewController.swift; sourceTree = "<group>"; };
@@ -148,10 +148,10 @@
 				4941243E23F48A7300DD45A8 /* SheetTableViewCell.swift */,
 				4941243C23F47EC700DD45A8 /* SheetViewController2.swift */,
 				49E093BD23C9A75700703E61 /* MyEventsViewController.swift */,
+				49DFD0142445F1A000142C3C /* help.PNG */,
 				498D335823C9CEC3007B5FF3 /* Copy of Untitled Design-3.png */,
 				4976225923CBA4140045EBBC /* the-ball-stadion-football-the-pitch-47730.jpeg */,
 				49DFD0062445185600142C3C /* Copy of Copy of Untitled Design-2.png */,
-				49DFD01224452C6400142C3C /* help.PNG */,
 				4976225B23CD04700045EBBC /* open-mic.jpg */,
 				4976225D23CD047E0045EBBC /* Preview Image.jpg */,
 				4976225F23CD048B0045EBBC /* town-hall_livestreams.jpg */,
@@ -235,7 +235,7 @@
 				49CA00F523EF3E9E000D2139 /* anokha_allevents.json in Resources */,
 				49634C4723AB53D400334C78 /* LaunchScreen.storyboard in Resources */,
 				4976225E23CD047F0045EBBC /* Preview Image.jpg in Resources */,
-				49DFD01324452C6400142C3C /* help.PNG in Resources */,
+				49DFD0152445F1A000142C3C /* help.PNG in Resources */,
 				49634C4223AB53D300334C78 /* Main.storyboard in Resources */,
 				4976225C23CD04710045EBBC /* open-mic.jpg in Resources */,
 				49DFD00D2445254300142C3C /* 2.mov in Resources */,

@@ -19,7 +19,7 @@
                                 <rect key="frame" x="-43" y="269" width="500" height="358"/>
                             </imageView>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Stay Home.Stay Safe " textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="x5T-oR-Ibc">
-                                <rect key="frame" x="117.5" y="843" width="179" height="24"/>
+                                <rect key="frame" x="117.5" y="836" width="179" height="24"/>
                                 <fontDescription key="fontDescription" name="AppleSDGothicNeo-Regular" family="Apple SD Gothic Neo" pointSize="20"/>
                                 <color key="textColor" systemColor="systemBlueColor" red="0.0" green="0.47843137250000001" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                 <nil key="highlightedColor"/>
@@ -36,7 +36,7 @@
                             <constraint firstItem="MKL-wA-rON" firstAttribute="centerX" secondItem="Ze5-6b-2t3" secondAttribute="centerX" id="2hw-Aj-j6H"/>
                             <constraint firstItem="x5T-oR-Ibc" firstAttribute="centerX" secondItem="Ze5-6b-2t3" secondAttribute="centerX" id="Cj3-Bg-iyD"/>
                             <constraint firstItem="B5d-OC-Lq9" firstAttribute="top" secondItem="MKL-wA-rON" secondAttribute="bottom" constant="8" id="DZN-ui-emc"/>
-                            <constraint firstItem="x5T-oR-Ibc" firstAttribute="bottom" secondItem="6Tk-OE-BBY" secondAttribute="bottom" constant="5" id="Lm0-qp-vMa"/>
+                            <constraint firstItem="x5T-oR-Ibc" firstAttribute="bottom" secondItem="6Tk-OE-BBY" secondAttribute="bottom" constant="-2" id="Lm0-qp-vMa"/>
                             <constraint firstItem="MKL-wA-rON" firstAttribute="centerY" secondItem="Ze5-6b-2t3" secondAttribute="centerY" id="epM-nX-jZK"/>
                             <constraint firstItem="MKL-wA-rON" firstAttribute="height" secondItem="Ze5-6b-2t3" secondAttribute="height" multiplier="0.4" id="icl-pI-IFt"/>
                             <constraint firstItem="B5d-OC-Lq9" firstAttribute="centerX" secondItem="Ze5-6b-2t3" secondAttribute="centerX" id="v3n-gS-p6E"/>
