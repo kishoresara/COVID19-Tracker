@@ -269,74 +269,11 @@
                         <outlet property="activityindicator" destination="3ST-fm-tWC" id="AcB-Ds-sgt"/>
                         <outlet property="countShow" destination="Uqm-au-wML" id="ztg-v7-FVG"/>
                         <outlet property="map" destination="OM5-KF-3x0" id="5aL-Tz-Ass"/>
-                        <segue destination="bdn-lM-xbr" kind="show" identifier="mapSegue" id="bx0-jB-vZr"/>
-                        <segue destination="ZTP-UB-kAj" kind="show" identifier="collectionSegue" id="CJM-zi-SKY"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="UsS-pq-xrm" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
             </objects>
             <point key="canvasLocation" x="1560.8695652173915" y="640.84821428571422"/>
-        </scene>
-        <!--Sheet View Controller-->
-        <scene sceneID="x0f-DO-cH2">
-            <objects>
-                <viewController storyboardIdentifier="SheetViewController" useStoryboardIdentifierAsRestorationIdentifier="YES" id="ZTP-UB-kAj" customClass="SheetViewController" customModule="Tracker" customModuleProvider="target" sceneMemberID="viewController">
-                    <view key="view" contentMode="scaleToFill" id="dU7-EZ-mcd">
-                        <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
-                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
-                        <subviews>
-                            <tableView clipsSubviews="YES" contentMode="scaleToFill" fixedFrame="YES" restorationIdentifier="SheetTable" alwaysBounceVertical="YES" dataMode="prototypes" style="plain" separatorStyle="default" rowHeight="-1" estimatedRowHeight="-1" sectionHeaderHeight="28" sectionFooterHeight="28" translatesAutoresizingMaskIntoConstraints="NO" id="2sC-N7-ZcM">
-                                <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
-                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                <color key="backgroundColor" systemColor="systemBackgroundColor" cocoaTouchSystemColor="whiteColor"/>
-                                <prototypes>
-                                    <tableViewCell clipsSubviews="YES" contentMode="scaleToFill" preservesSuperviewLayoutMargins="YES" selectionStyle="blue" accessoryType="disclosureIndicator" indentationLevel="1" indentationWidth="0.0" reuseIdentifier="Cell" rowHeight="122" id="128-gf-M6G" customClass="SheetTableViewCell" customModule="Tracker" customModuleProvider="target">
-                                        <rect key="frame" x="0.0" y="28" width="414" height="122"/>
-                                        <autoresizingMask key="autoresizingMask"/>
-                                        <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" preservesSuperviewLayoutMargins="YES" insetsLayoutMarginsFromSafeArea="NO" tableViewCell="128-gf-M6G" id="fRn-ex-3Bk">
-                                            <rect key="frame" x="0.0" y="0.0" width="383" height="122"/>
-                                            <autoresizingMask key="autoresizingMask"/>
-                                            <subviews>
-                                                <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Label" lineBreakMode="tailTruncation" baselineAdjustment="none" minimumFontSize="30" adjustsFontForContentSizeCategory="YES" id="vRL-UA-W2E">
-                                                    <rect key="frame" x="12" y="-4" width="358" height="71"/>
-                                                    <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                                    <fontDescription key="fontDescription" type="system" pointSize="29"/>
-                                                    <nil key="textColor"/>
-                                                    <nil key="highlightedColor"/>
-                                                </label>
-                                                <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Label" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" id="yl6-66-VMZ">
-                                                    <rect key="frame" x="12" y="55" width="371" height="41"/>
-                                                    <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                                    <fontDescription key="fontDescription" type="system" pointSize="21"/>
-                                                    <color key="textColor" white="0.66666666669999997" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
-                                                    <nil key="highlightedColor"/>
-                                                </label>
-                                            </subviews>
-                                        </tableViewCellContentView>
-                                        <connections>
-                                            <outlet property="LocationCell" destination="yl6-66-VMZ" id="GRo-c4-8HS"/>
-                                            <outlet property="TitleCell" destination="vRL-UA-W2E" id="5pO-Zh-LsX"/>
-                                        </connections>
-                                    </tableViewCell>
-                                </prototypes>
-                                <connections>
-                                    <outlet property="dataSource" destination="ZTP-UB-kAj" id="XBT-Lr-brp"/>
-                                    <outlet property="delegate" destination="ZTP-UB-kAj" id="Ycp-0l-PXG"/>
-                                </connections>
-                            </tableView>
-                        </subviews>
-                        <color key="backgroundColor" systemColor="systemBackgroundColor" cocoaTouchSystemColor="whiteColor"/>
-                        <viewLayoutGuide key="safeArea" id="4yn-6o-KXo"/>
-                    </view>
-                    <navigationItem key="navigationItem" id="igf-VO-eYl"/>
-                    <connections>
-                        <outlet property="SheetTable" destination="2sC-N7-ZcM" id="fnX-y1-m3L"/>
-                        <segue destination="bdn-lM-xbr" kind="show" identifier="collectionselectSegue" id="EWq-6M-48D"/>
-                    </connections>
-                </viewController>
-                <placeholder placeholderIdentifier="IBFirstResponder" id="t5O-ro-4Y1" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
-            </objects>
-            <point key="canvasLocation" x="2592.753623188406" y="987.72321428571422"/>
         </scene>
         <!--Events View Controller-->
         <scene sceneID="zFg-WP-srQ">
@@ -649,9 +586,6 @@
             <point key="canvasLocation" x="558" y="641"/>
         </scene>
     </scenes>
-    <inferredMetricsTieBreakers>
-        <segue reference="TiM-5D-VP9"/>
-    </inferredMetricsTieBreakers>
     <color key="tintColor" red="0.84705882349999995" green="0.25882352939999997" blue="0.24313725489999999" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
     <resources>
         <image name="Copy of Copy of Untitled Design-2.png" width="375" height="375"/>

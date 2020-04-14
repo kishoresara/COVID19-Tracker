@@ -1,6 +1,6 @@
 //
 //  DetailsViewController.swift
-//  Amrita Events
+//  COVID19 Tracker
 //
 //  Created by kishore saravanan on 12/01/20.
 //  Copyright © 2020 kishore saravanan. All rights reserved.
@@ -13,15 +13,14 @@ var DistrictNames: [String] = []
 var DistrictCaseCount: [Int] = []
 
 class DetailsViewController: UIViewController, UITableViewDelegate, UITableViewDataSource {
-    
     @IBOutlet weak var tableview: UITableView!
+    
     override func viewDidLoad() {
         super.viewDidLoad()
         tableview.delegate = self
         tableview.dataSource = self
         tableview.rowHeight = 113
         tableview.backgroundColor = UIColor.darkGray
-        
         var state_num_pointer = 0
         for i in 0..<statelist.count {
             if( StateClicked == statelist[i]) {
@@ -49,19 +48,12 @@ class DetailsViewController: UIViewController, UITableViewDelegate, UITableViewD
                     let largerValue = DistrictCaseCount[j-1]
                     DistrictCaseCount[j-1] = DistrictCaseCount[j]
                     DistrictCaseCount[j] = largerValue
-                    //print(largerValue)
-                    
                     let tempstr = DistrictNames[j-1]
                     DistrictNames[j-1] = DistrictNames[j]
                     DistrictNames[j] = tempstr
                 }
             }
         }
-        
-        print("distnaam",DistrictNames)
-        print("dictcont",DistrictCaseCount)
-        
-       
     }
     
     
@@ -74,7 +66,6 @@ class DetailsViewController: UIViewController, UITableViewDelegate, UITableViewD
         return DistrictNames.count
     }
     
-    
     func tableView(_ tableView: UITableView, cellForRowAt indexPath: IndexPath) -> UITableViewCell {
         let cell = tableview.dequeueReusableCell(withIdentifier: "Cell", for: indexPath) as! DistrictTableCell
         
@@ -82,15 +73,10 @@ class DetailsViewController: UIViewController, UITableViewDelegate, UITableViewD
         cell.ConfirmedTotal.text = String(DistrictCaseCount[indexPath.row])
         cell.backgroundColor = UIColor.black
         cell.DeltaConfirmed.isHidden = true
-        
         return cell
     }
     
     func tableView(_ tableView: UITableView, didSelectRowAt indexPath: IndexPath) {
-        //eventIdGlobal = indexPath.row
-        //eventIdGlobal += 1
-        //MapOrList = 1
-        //performSegue(withIdentifier: "listSegue", sender: self)
         tableView.deselectRow(at: indexPath, animated: true)
     }
     

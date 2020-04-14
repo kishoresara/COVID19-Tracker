@@ -9,9 +9,7 @@
 import UIKit
 
 class DistrictTableCell: UITableViewCell {
-
     @IBOutlet weak var DistrictName: UILabel!
-    
     @IBOutlet weak var ConfirmedTotal: UILabel!
     @IBOutlet weak var DeltaConfirmed: UILabel!
     

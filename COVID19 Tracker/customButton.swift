@@ -16,12 +16,10 @@ class CustomButton: UIButton {
         setupButton()
     }
     
-    
     required init?(coder aDecoder: NSCoder) {
         super.init(coder: aDecoder)
         setupButton()
     }
-    
     
     func setupButton() {
         setShadow()
@@ -60,7 +58,6 @@ class CustomButton: UIButton {
         
         shake.fromValue     = fromValue
         shake.toValue       = toValue
-        
         layer.add(shake, forKey: "position")
     }
 }

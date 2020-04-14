@@ -17,14 +17,10 @@ class AVPlayerView: UIView {
     }
 }
 
-
-
 extension UIViewController {
-    
     func ShowActivitySpinner() {
         aView = UIView(frame: self.view.bounds)
         aView?.backgroundColor = UIColor.init(red: 0.3, green: 0.3, blue: 0.3, alpha: 0.3)
-        
         let ai = UIActivityIndicatorView(style: .large)
         ai.color = .white
         ai.center = aView!.center

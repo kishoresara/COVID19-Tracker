@@ -7,8 +7,6 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		4941243D23F47EC700DD45A8 /* SheetViewController2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4941243C23F47EC700DD45A8 /* SheetViewController2.swift */; };
-		4941243F23F48A7300DD45A8 /* SheetTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4941243E23F48A7300DD45A8 /* SheetTableViewCell.swift */; };
 		49634C3B23AB53D300334C78 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49634C3A23AB53D300334C78 /* AppDelegate.swift */; };
 		49634C3D23AB53D300334C78 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49634C3C23AB53D300334C78 /* SceneDelegate.swift */; };
 		49634C3F23AB53D300334C78 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49634C3E23AB53D300334C78 /* ViewController.swift */; };
@@ -16,16 +14,8 @@
 		49634C4723AB53D400334C78 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 49634C4523AB53D400334C78 /* LaunchScreen.storyboard */; };
 		4976225623CA55A20045EBBC /* EventListTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4976225523CA55A20045EBBC /* EventListTableViewCell.swift */; };
 		4976225823CB2AE70045EBBC /* DetailsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4976225723CB2AE70045EBBC /* DetailsViewController.swift */; };
-		4976225A23CBA4140045EBBC /* the-ball-stadion-football-the-pitch-47730.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 4976225923CBA4140045EBBC /* the-ball-stadion-football-the-pitch-47730.jpeg */; };
-		4976225C23CD04710045EBBC /* open-mic.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 4976225B23CD04700045EBBC /* open-mic.jpg */; };
-		4976225E23CD047F0045EBBC /* Preview Image.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 4976225D23CD047E0045EBBC /* Preview Image.jpg */; };
-		4976226023CD048C0045EBBC /* town-hall_livestreams.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 4976225F23CD048B0045EBBC /* town-hall_livestreams.jpg */; };
-		498D335923C9CEC3007B5FF3 /* Copy of Untitled Design-3.png in Resources */ = {isa = PBXBuildFile; fileRef = 498D335823C9CEC3007B5FF3 /* Copy of Untitled Design-3.png */; };
-		498D335B23C9F826007B5FF3 /* Events.json in Resources */ = {isa = PBXBuildFile; fileRef = 498D335A23C9F826007B5FF3 /* Events.json */; };
 		499E6098244110F0008F3E68 /* customButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 499E6097244110F0008F3E68 /* customButton.swift */; };
 		499E60AA24414BEF008F3E68 /* Asset.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 499E60A924414BEF008F3E68 /* Asset.xcassets */; };
-		49CA00F323EF213C000D2139 /* io_logo.png in Resources */ = {isa = PBXBuildFile; fileRef = 49CA00F223EF213B000D2139 /* io_logo.png */; };
-		49CA00F523EF3E9E000D2139 /* anokha_allevents.json in Resources */ = {isa = PBXBuildFile; fileRef = 49CA00F423EF3E9E000D2139 /* anokha_allevents.json */; };
 		49CA00F723EFD0EB000D2139 /* EventMarkerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49CA00F623EFD0EB000D2139 /* EventMarkerView.swift */; };
 		49CA00F923EFD462000D2139 /* MapEventClusterView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49CA00F823EFD462000D2139 /* MapEventClusterView.swift */; };
 		49DFCFFB2444C49E00142C3C /* IntroViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49DFCFFA2444C49E00142C3C /* IntroViewController.swift */; };
@@ -38,15 +28,11 @@
 		49DFD0152445F1A000142C3C /* help.PNG in Resources */ = {isa = PBXBuildFile; fileRef = 49DFD0142445F1A000142C3C /* help.PNG */; };
 		49E093BA23C910CD00703E61 /* MapViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49E093B923C910CD00703E61 /* MapViewController.swift */; };
 		49E093BC23C9A74000703E61 /* EventsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49E093BB23C9A74000703E61 /* EventsViewController.swift */; };
-		49E093BE23C9A75700703E61 /* MyEventsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49E093BD23C9A75700703E61 /* MyEventsViewController.swift */; };
-		49E093C023C9B65900703E61 /* Users.json in Resources */ = {isa = PBXBuildFile; fileRef = 49E093BF23C9B65900703E61 /* Users.json */; };
 		49E300342443B4CE0016F3EA /* DistrictTableCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49E300332443B4CE0016F3EA /* DistrictTableCell.swift */; };
 		49E300362443C6CB0016F3EA /* util.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49E300352443C6CB0016F3EA /* util.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		4941243C23F47EC700DD45A8 /* SheetViewController2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SheetViewController2.swift; sourceTree = "<group>"; };
-		4941243E23F48A7300DD45A8 /* SheetTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SheetTableViewCell.swift; sourceTree = "<group>"; };
 		49634C3723AB53D300334C78 /* Tracker.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Tracker.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		49634C3A23AB53D300334C78 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		49634C3C23AB53D300334C78 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -56,17 +42,9 @@
 		49634C4823AB53D400334C78 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		4976225523CA55A20045EBBC /* EventListTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EventListTableViewCell.swift; sourceTree = "<group>"; };
 		4976225723CB2AE70045EBBC /* DetailsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailsViewController.swift; sourceTree = "<group>"; };
-		4976225923CBA4140045EBBC /* the-ball-stadion-football-the-pitch-47730.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "the-ball-stadion-football-the-pitch-47730.jpeg"; sourceTree = "<group>"; };
-		4976225B23CD04700045EBBC /* open-mic.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "open-mic.jpg"; sourceTree = "<group>"; };
-		4976225D23CD047E0045EBBC /* Preview Image.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Preview Image.jpg"; sourceTree = "<group>"; };
-		4976225F23CD048B0045EBBC /* town-hall_livestreams.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "town-hall_livestreams.jpg"; sourceTree = "<group>"; };
-		498D335823C9CEC3007B5FF3 /* Copy of Untitled Design-3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Copy of Untitled Design-3.png"; sourceTree = "<group>"; };
-		498D335A23C9F826007B5FF3 /* Events.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Events.json; sourceTree = "<group>"; };
 		49914EC423D1955600D0705D /* CoreLocation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreLocation.framework; path = System/Library/Frameworks/CoreLocation.framework; sourceTree = SDKROOT; };
 		499E6097244110F0008F3E68 /* customButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = customButton.swift; sourceTree = "<group>"; };
 		499E60A924414BEF008F3E68 /* Asset.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Asset.xcassets; sourceTree = "<group>"; };
-		49CA00F223EF213B000D2139 /* io_logo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = io_logo.png; sourceTree = "<group>"; };
-		49CA00F423EF3E9E000D2139 /* anokha_allevents.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = anokha_allevents.json; sourceTree = "<group>"; };
 		49CA00F623EFD0EB000D2139 /* EventMarkerView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EventMarkerView.swift; sourceTree = "<group>"; };
 		49CA00F823EFD462000D2139 /* MapEventClusterView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapEventClusterView.swift; sourceTree = "<group>"; };
 		49DFCFFA2444C49E00142C3C /* IntroViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IntroViewController.swift; sourceTree = "<group>"; };
@@ -79,8 +57,6 @@
 		49DFD0142445F1A000142C3C /* help.PNG */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = help.PNG; sourceTree = "<group>"; };
 		49E093B923C910CD00703E61 /* MapViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapViewController.swift; sourceTree = "<group>"; };
 		49E093BB23C9A74000703E61 /* EventsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EventsViewController.swift; sourceTree = "<group>"; };
-		49E093BD23C9A75700703E61 /* MyEventsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyEventsViewController.swift; sourceTree = "<group>"; };
-		49E093BF23C9B65900703E61 /* Users.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Users.json; sourceTree = "<group>"; };
 		49E300332443B4CE0016F3EA /* DistrictTableCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = DistrictTableCell.swift; path = ../DistrictTableCell.swift; sourceTree = "<group>"; };
 		49E300352443C6CB0016F3EA /* util.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = util.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -128,9 +104,6 @@
 				49DFD0082445253300142C3C /* 0.mov */,
 				49DFD00A2445253D00142C3C /* 1.mov */,
 				49DFD00C2445254300142C3C /* 2.mov */,
-				498D335A23C9F826007B5FF3 /* Events.json */,
-				49E093BF23C9B65900703E61 /* Users.json */,
-				49CA00F423EF3E9E000D2139 /* anokha_allevents.json */,
 				49CA00F623EFD0EB000D2139 /* EventMarkerView.swift */,
 				49CA00F823EFD462000D2139 /* MapEventClusterView.swift */,
 				49E093B923C910CD00703E61 /* MapViewController.swift */,
@@ -145,17 +118,8 @@
 				49DFCFFC2444C4CC00142C3C /* CustomPageViewController.swift */,
 				49634C3A23AB53D300334C78 /* AppDelegate.swift */,
 				49634C3C23AB53D300334C78 /* SceneDelegate.swift */,
-				4941243E23F48A7300DD45A8 /* SheetTableViewCell.swift */,
-				4941243C23F47EC700DD45A8 /* SheetViewController2.swift */,
-				49E093BD23C9A75700703E61 /* MyEventsViewController.swift */,
 				49DFD0142445F1A000142C3C /* help.PNG */,
-				498D335823C9CEC3007B5FF3 /* Copy of Untitled Design-3.png */,
-				4976225923CBA4140045EBBC /* the-ball-stadion-football-the-pitch-47730.jpeg */,
 				49DFD0062445185600142C3C /* Copy of Copy of Untitled Design-2.png */,
-				4976225B23CD04700045EBBC /* open-mic.jpg */,
-				4976225D23CD047E0045EBBC /* Preview Image.jpg */,
-				4976225F23CD048B0045EBBC /* town-hall_livestreams.jpg */,
-				49CA00F223EF213B000D2139 /* io_logo.png */,
 				49634C4523AB53D400334C78 /* LaunchScreen.storyboard */,
 				49634C4823AB53D400334C78 /* Info.plist */,
 				499E6097244110F0008F3E68 /* customButton.swift */,
@@ -232,21 +196,12 @@
 			files = (
 				499E60AA24414BEF008F3E68 /* Asset.xcassets in Resources */,
 				49DFD0092445253300142C3C /* 0.mov in Resources */,
-				49CA00F523EF3E9E000D2139 /* anokha_allevents.json in Resources */,
 				49634C4723AB53D400334C78 /* LaunchScreen.storyboard in Resources */,
-				4976225E23CD047F0045EBBC /* Preview Image.jpg in Resources */,
 				49DFD0152445F1A000142C3C /* help.PNG in Resources */,
 				49634C4223AB53D300334C78 /* Main.storyboard in Resources */,
-				4976225C23CD04710045EBBC /* open-mic.jpg in Resources */,
 				49DFD00D2445254300142C3C /* 2.mov in Resources */,
-				4976225A23CBA4140045EBBC /* the-ball-stadion-football-the-pitch-47730.jpeg in Resources */,
-				4976226023CD048C0045EBBC /* town-hall_livestreams.jpg in Resources */,
 				49DFD00B2445253D00142C3C /* 1.mov in Resources */,
-				49CA00F323EF213C000D2139 /* io_logo.png in Resources */,
 				49DFD0072445185700142C3C /* Copy of Copy of Untitled Design-2.png in Resources */,
-				49E093C023C9B65900703E61 /* Users.json in Resources */,
-				498D335B23C9F826007B5FF3 /* Events.json in Resources */,
-				498D335923C9CEC3007B5FF3 /* Copy of Untitled Design-3.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -259,15 +214,12 @@
 			files = (
 				49634C3F23AB53D300334C78 /* ViewController.swift in Sources */,
 				49CA00F723EFD0EB000D2139 /* EventMarkerView.swift in Sources */,
-				4941243D23F47EC700DD45A8 /* SheetViewController2.swift in Sources */,
 				49E300362443C6CB0016F3EA /* util.swift in Sources */,
-				49E093BE23C9A75700703E61 /* MyEventsViewController.swift in Sources */,
 				49E300342443B4CE0016F3EA /* DistrictTableCell.swift in Sources */,
 				4976225623CA55A20045EBBC /* EventListTableViewCell.swift in Sources */,
 				49DFCFFD2444C4CC00142C3C /* CustomPageViewController.swift in Sources */,
 				4976225823CB2AE70045EBBC /* DetailsViewController.swift in Sources */,
 				49CA00F923EFD462000D2139 /* MapEventClusterView.swift in Sources */,
-				4941243F23F48A7300DD45A8 /* SheetTableViewCell.swift in Sources */,
 				49634C3B23AB53D300334C78 /* AppDelegate.swift in Sources */,
 				49634C3D23AB53D300334C78 /* SceneDelegate.swift in Sources */,
 				49DFD005244506F500142C3C /* HelpViewController.swift in Sources */,
@@ -425,7 +377,7 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "kishoresara91.COVID19-Tracker";
+				PRODUCT_BUNDLE_IDENTIFIER = "kishoresara91.COVID-Tracker-India";
 				PRODUCT_NAME = Tracker;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = 1;
@@ -443,7 +395,7 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "kishoresara91.COVID19-Tracker";
+				PRODUCT_BUNDLE_IDENTIFIER = "kishoresara91.COVID-Tracker-India";
 				PRODUCT_NAME = Tracker;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = 1;

@@ -1,6 +1,6 @@
 //
 //  MapEventClusterView.swift
-//  Amrita Events
+//  COVID19 Tracker
 //
 //  Created by kishore saravanan on 09/02/20.
 //  Copyright © 2020 kishore saravanan. All rights reserved.
@@ -9,10 +9,6 @@
 import Foundation
 import MapKit
 
-///*
-var isCluster = Int()
-// arrayList = [String()]
-//  MARK: Battle Rapper Cluster View
 internal final class MapEventClusterView: MKAnnotationView {
     //  MARK: Properties
     internal override var annotation: MKAnnotation? { willSet { newValue.flatMap(configure(with:)) } }
@@ -22,9 +18,6 @@ internal final class MapEventClusterView: MKAnnotationView {
         displayPriority = .defaultHigh
         collisionMode = .circle
         centerOffset = CGPoint(x: 0.0, y: -10.0)
-        //let button = UIButton(type: .infoLight)
-        //rightCalloutAccessoryView = button
-        //button.tintColor = .red
     }
     required init?(coder aDecoder: NSCoder) {
         fatalError("\(#function) not implemented.")
@@ -34,11 +27,6 @@ internal final class MapEventClusterView: MKAnnotationView {
 private extension MapEventClusterView {
     func configure(with annotation: MKAnnotation) {
         guard let annotation = annotation as? MKClusterAnnotation else { return }
-
-        //let arrayList = annotation.memberAnnotations
-       // print(arrayList.last!.title as! String)
-//        arraymark = arrayList
-        
         let renderer = UIGraphicsImageRenderer(size: CGSize(width: 40.0, height: 40.0)) //40
         let count = annotation.memberAnnotations.count
         image = renderer.image { _ in
@@ -54,5 +42,5 @@ private extension MapEventClusterView {
     }
 }
 
-//*/
+
 
