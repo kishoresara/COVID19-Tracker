@@ -1,0 +1,783 @@
+[
+ {
+   "event_id": 1,
+   "event_name": "EPICtures",
+   "Day1": "null",
+   "Day2": "null",
+   "Day3": "10:00- 17:00",
+   "Venue": "Amriteshwari Hall",
+   "Lat":10.900555,
+   "Long":76.903682
+ },
+ {
+   "event_id": 2,
+   "event_name": "Get Engineered!",
+   "Day1": "null",
+   "Day2": "null",
+   "Day3": "10:00-16:00",
+   "Venue": "AB-2 third floor C-401, C-402, C-403",
+   "Lat":10.903849,
+   "Long":76.898360
+ },
+ {
+   "event_id": 3,
+   "event_name": "Dot Party",
+   "Day1": "null",
+   "Day2": "13:30-17:00",
+   "Day3": "null",
+   "Venue": "AB-2 third floor C-401,C-402,C-403",
+   "Lat":10.903849,
+   "Long":76.898360
+ },
+ {
+   "event_id": 4,
+   "event_name": "Chemipher",
+   "Day1": "null",
+   "Day2": "10:00-13:30",
+   "Day3": "null",
+   "Venue": "AB-2  third floor C-401, C-402, C-403",
+   "Lat":10.903849,
+   "Long":76.898360
+ },
+ {
+   "event_id": 5,
+   "event_name": "CAD SCAMPER",
+   "Day1": "9:00-16:00",
+   "Day2": "null",
+   "Day3": "null",
+   "Venue": "AB 1, SECOND FLOOR , W308 & W310",
+   "Lat":10.900357,
+   "Long":76.902803
+ },
+ {
+   "event_id": 6,
+   "event_name": "360 DEGREE  OUTLINE",
+   "Day1": "null",
+   "Day2": "10:00-13:15",
+   "Day3": "14:00-15:30",
+   "Venue": "AB 1 ,SECOND FLOOR ,W308 & W310",
+   "Lat":10.900357,
+   "Long":76.902803
+ },
+ {
+   "event_id": 7,
+   "event_name": "KING OF CONCRETE",
+   "Day1": "9:00-13:00",
+   "Day2": "9:00-13:00",
+   "Day3": "9:00-13:00",
+   "Venue": "AB1 SECOND FLOOR W310",
+   "Lat":10.900357,
+   "Long":76.902803
+ },
+ {
+   "event_id": 8,
+   "event_name": "LINKIDGE",
+   "Day1": "9:00-12:00",
+   "Day2": "null",
+   "Day3": "null",
+   "Venue": "AB 1 , SECOND FLOOR , W309 & W310",
+   "Lat":10.900357,
+   "Long":76.902803
+ },
+ {
+   "event_id": 9,
+   "event_name": "TREASURE HUNT",
+   "Day1": "null",
+   "Day2": "null",
+   "Day3": "9:00 - 13:45",
+   "Venue": "AB 1 , SECOND FLOOR , W 309 & W 310",
+   "Lat":10.900357,
+   "Long":76.902803
+ },
+ {
+   "event_id": 10,
+   "event_name": "AARC",
+   "Day1": "null",
+   "Day2": "9:00-17:00",
+   "Day3": "null",
+   "Venue": "Academic Block II, A-105",
+   "Lat":10.903849,
+   "Long":76.898360
+ },
+ {
+   "event_id": 11,
+   "event_name": "Arduino YOU KNOW?",
+   "Day1": "9:00-17:00",
+   "Day2": "null",
+   "Day3": "null",
+   "Venue": "AB2-C304",
+   "Lat":10.903849,
+   "Long":76.898360
+ },
+ {
+   "event_id": 12,
+   "event_name": "Circuits",
+   "Day1": "null",
+   "Day2": "9:30-16:30",
+   "Day3": "null",
+   "Venue": "AB2-A201-Digital Communication Lab",
+   "Lat":10.903849,
+   "Long":76.898360
+ },
+ {
+   "event_id": 13,
+   "event_name": "DEATH RACE",
+   "Day1": "9:30-16:30",
+   "Day2": "null",
+   "Day3": "null",
+   "Venue": "MudRoad (Shortcut to stores)",
+   "Lat":10.903841,
+   "Long":76.900963
+ },
+ {
+   "event_id": 14,
+   "event_name": "Capture the Flag(CTF)",
+   "Day1": "09:00-17:00",
+   "Day2": "null",
+   "Day3": "null",
+   "Venue": "Seminar Hall 2 (Above Amriteshwari Hall)",
+   "Lat":10.900555,
+   "Long":76.903682
+ },
+ {
+   "event_id": 15,
+   "event_name": "Aerocar",
+   "Day1": "null",
+   "Day2": "09:00 - 16:00",
+   "Day3": "null",
+   "Venue": "AB2, Parking lot",
+   "Lat":10.903849,
+   "Long":76.898360
+ },
+ {
+   "event_id": 16,
+   "event_name": "Forking",
+   "Day1": "09:00-16:00",
+   "Day2": "null",
+   "Day3": "null",
+   "Venue": "AB2, Parking lot",
+   "Lat":10.903849,
+   "Long":76.898360
+ },
+ {
+   "event_id": 17,
+   "event_name": "Master of Circuits",
+   "Day1": "null",
+   "Day2": "null",
+   "Day3": "09:00-16:00",
+   "Venue": "AB2, Main Entrance",
+   "Lat":10.903849,
+   "Long":76.898360
+ },
+ {
+   "event_id": 18,
+   "event_name": "Robosoccer",
+   "Day1": "null",
+   "Day2": "09:00 - 16:00",
+   "Day3": "null",
+   "Venue": "AB2, Main Entrance",
+   "Lat":10.903849,
+   "Long":76.898360
+ },
+ {
+   "event_id": 19,
+   "event_name": "Rocket Science",
+   "Day1": "null",
+   "Day2": "9:00-17:00",
+   "Day3": "null",
+   "Venue": "Seminar Hall-1 (AB1)",
+   "Lat":10.900357,
+   "Long":76.902803
+ },
+ {
+   "event_id": 20,
+   "event_name": "Hydro Powered Rocket",
+   "Day1": "9:00-13:00",
+   "Day2": "null",
+   "Day3": "null",
+   "Venue": "MAIN GROUND Near AB1",
+   "Lat":10.902563,
+   "Long":76.902957
+ },
+ {
+   "event_id": 21,
+   "event_name": "Paper Wings",
+   "Day1": "14:00 - 16:30",
+   "Day2": "null",
+   "Day3": "null",
+   "Venue": "MAIN GROUND Near AB1",
+   "Lat":10.902563,
+   "Long":76.902957
+ },
+ {
+   "event_id": 22,
+   "event_name": "Code Wars",
+   "Day1": "14:00 - 17:00",
+   "Day2": "null",
+   "Day3": "null",
+   "Venue": "3rd floor - English lab (W409)",
+   "Lat":10.900357,
+   "Long":76.902803
+ },
+ {
+   "event_id": 23,
+   "event_name": "Rainbow Six Siege",
+   "Day1": "null",
+   "Day2": "9:00 - 16:00",
+   "Day3": "null",
+   "Venue": "null",
+   "Lat":10.900357,
+   "Long":76.902803
+ },
+ {
+   "event_id": 24,
+   "event_name": "Fashion Photography Contest",
+   "Day1": "null",
+   "Day2": "9:00 - 16:00",
+   "Day3": "null",
+   "Venue": "Amriteshwari Hall",
+   "Lat":10.900555,
+   "Long":76.903682
+ },
+ {
+   "event_id": 25,
+   "event_name": "PolyCode Glot",
+   "Day1": "null",
+   "Day2": "14:30 - 16:30",
+   "Day3": "null",
+   "Venue": "AB1- 3rd floor - English",
+   "Lat":10.900357,
+   "Long":76.902803
+ },
+ {
+   "event_id": 26,
+   "event_name": "AI ADEPT",
+   "Day1": "null",
+   "Day2": "9:00 - 13:00",
+   "Day3": "null",
+   "Venue": "AB1 3rd floor - English Lab",
+   "Lat":10.900357,
+   "Long":76.902803
+ },
+ {
+   "event_id": 27,
+   "event_name": "FIFA’19",
+   "Day1": "null",
+   "Day2": "9:00 - 16:00",
+   "Day3": "null",
+   "Venue": "TBA",
+   "Lat":10.900357,
+   "Long":76.902803
+ },
+ {
+   "event_id": 28,
+   "event_name": "Figure-Em-All",
+   "Day1": "9:30 - 12:30",
+   "Day2": "null",
+   "Day3": "null",
+   "Venue": "AB1- 3rd floor - English lab",
+   "Lat":10.900357,
+   "Long":76.902803
+ },
+ {
+   "event_id": 29,
+   "event_name": "Math buzzers",
+   "Day1": "11:40 - 12:45",
+   "Day2": "12:10 - 1:30",
+   "Day3": "null",
+   "Venue": "AB1 classrooms",
+   "Lat":10.900357,
+   "Long":76.902803
+ },
+ {
+   "event_id": 30,
+   "event_name": "Anwara Fashion Show",
+   "Day1": "null",
+   "Day2": "14:00 - 16:00",
+   "Day3": "null",
+   "Venue": "Amriteshwari Hall",
+   "Lat":10.900555,
+   "Long":76.903682
+ },
+ {
+   "event_id": 31,
+   "event_name": "Mech Taboo",
+   "Day1": "10:00 - 12:30",
+   "Day2": "null",
+   "Day3": "null",
+   "Venue": "AB1 Classrooms E201, E202 and E203 (First Floor)",
+   "Lat":10.900357,
+   "Long":76.902803
+ },
+ {
+   "event_id": 32,
+   "event_name": "MecHunt",
+   "Day1": "14:00 - 16:30",
+   "Day2": "null",
+   "Day3": "null",
+   "Venue": "AB1 Classrooms E201, E202 and E203 (First Floor)",
+   "Lat":10.900357,
+   "Long":76.902803
+ },
+ {
+   "event_id": 33,
+   "event_name": "Design Consortium",
+   "Day1": "null",
+   "Day2": "null",
+   "Day3": "10:00  - 15:00",
+   "Venue": "AB1 CAD/CAM lab. Ground floor",
+   "Lat":10.900357,
+   "Long":76.902803
+ },
+ {
+   "event_id": 34,
+   "event_name": "Auto Quiz",
+   "Day1": "null",
+   "Day2": "10:00 - 15:00",
+   "Day3": "null",
+   "Venue": "AB1 Classrooms (E201, E202, E203) (First Floor)",
+   "Lat":10.900357,
+   "Long":76.902803
+ },
+ {
+   "event_id": 35,
+   "event_name": "Design Contest",
+   "Day1": "14:00-16:00",
+   "Day2": "null",
+   "Day3": "null",
+   "Venue": "Amriteshwari Hall",
+   "Lat":10.900555,
+   "Long":76.903682
+ },
+ {
+   "event_id": 36,
+   "event_name": "Unscripted",
+   "Day1": "null",
+   "Day2": "null",
+   "Day3": "09:00-13:00",
+   "Venue": "Acharya Hall(AB1)",
+   "Lat":10.900357,
+   "Long":76.902803
+ },
+ {
+   "event_id": 37,
+   "event_name": "Vidhãn",
+   "Day1": "null",
+   "Day2": "null",
+   "Day3": "9:00 - 15:30",
+   "Venue": "TBA",
+   "Lat":10.900357,
+   "Long":76.902803
+ },
+ {
+   "event_id": 38,
+   "event_name": "Math Manoeuver",
+   "Day1": "10:00 - 16:00",
+   "Day2": "10:00 - 16:00",
+   "Day3": "10:00 - 16:00",
+   "Venue": "AB 1",
+   "Lat":10.900357,
+   "Long":76.902803
+ },
+ {
+   "event_id": 39,
+   "event_name": "Meme Mania",
+   "Day1": "10:00 - 16:00",
+   "Day2": "10:00 - 16:00",
+   "Day3": "10:00 - 16:00",
+   "Venue": "AB 1,Ground Floor",
+   "Lat":10.900357,
+   "Long":76.902803
+ },
+ {
+   "event_id": 40,
+   "event_name": "Robowarz 3.0",
+   "Day1": "null",
+   "Day2": "null",
+   "Day3": "9:00 - 17:00",
+   "Venue": "AB 2",
+   "Lat":10.903849,
+   "Long":76.898360
+ },
+ {
+   "event_id": 41,
+   "event_name": "School Wiz",
+   "Day1": "9:30 - 11:30",
+   "Day2": "null",
+   "Day3": "null",
+   "Venue": "TBA",
+   "Lat":10.900357,
+   "Long":76.902803
+ },
+ {
+   "event_id": 42,
+   "event_name": "Anokha Open",
+   "Day1": "null",
+   "Day2": "14:00 - 16:00",
+   "Day3": "null",
+   "Venue": "TBA",
+   "Lat":10.900357,
+   "Long":76.902803
+ },
+ {
+   "event_id": 43,
+   "event_name": "Matholympics",
+   "Day1": "10:30 - 11:30",
+   "Day2": "11:00 - 12:00",
+   "Day3": "null",
+   "Venue": "AB1",
+   "Lat":10.900357,
+   "Long":76.902803
+ },
+ {
+   "event_id": 44,
+   "event_name": "Dumpyard Decor",
+   "Day1": "null",
+   "Day2": "14:00 - 16:00",
+   "Day3": "null",
+   "Venue": "Sudhamani Hall",
+   "Lat":10.900555,
+   "Long":76.903682
+ },
+ {
+   "event_id": 45,
+   "event_name": "The Zoozoo Zap",
+   "Day1": "null",
+   "Day2": "14:00 - 16:00",
+   "Day3": "null",
+   "Venue": "Sudhamani Hall",
+   "Lat":10.900555,
+   "Long":76.903682
+ },
+ {
+   "event_id": 46,
+   "event_name": "1 Through 9",
+   "Day1": "null",
+   "Day2": "10:00 - 12:00",
+   "Day3": "null",
+   "Venue": "Seminar Hall, above Sudhamani Hall",
+   "Lat":10.900555,
+   "Long":76.903682
+ },
+ {
+   "event_id": 47,
+   "event_name": "Signs of Sciences",
+   "Day1": "null",
+   "Day2": "11:30 - 13:30",
+   "Day3": "null",
+   "Venue": "Sudhamani Hall",
+   "Lat":10.900555,
+   "Long":76.903682
+ },
+ {
+   "event_id": 48,
+   "event_name": "Detective Duo",
+   "Day1": "null",
+   "Day2": "09:00 - 11:30",
+   "Day3": "null",
+   "Venue": "Sudhamani Hall",
+   "Lat":10.900555,
+   "Long":76.903682
+ },
+ {
+   "event_id": 49,
+   "event_name": "On your Mics,  Get Set, Go!",
+   "Day1": "9:00 - 15:00",
+   "Day2": "null",
+   "Day3": "null",
+   "Venue": "Seminar Hall 1, AB1",
+   "Lat":10.900357,
+   "Long":76.902803
+ },
+ {
+   "event_id": 50,
+   "event_name": "Anokha Open (School Zone)",
+   "Day1": "null",
+   "Day2": "14:00-16:00",
+   "Day3": "null",
+   "Venue": "TBA",
+   "Lat":10.900357,
+   "Long":76.902803
+ },
+ {
+   "event_id": 51,
+   "event_name": "Detective Duo( School Zone)",
+   "Day1": "null",
+   "Day2": "09:00 - 11:30",
+   "Day3": "null",
+   "Venue": "Sudhamani Hall",
+   "Lat":10.900555,
+   "Long":76.903682
+ },
+ {
+   "event_id": 52,
+   "event_name": "Anokhan of the Year",
+   "Day1": "10:00 - 15:30",
+   "Day2": "null",
+   "Day3": "null",
+   "Venue": "Lawns, Academic Block 1",
+    "Lat":10.900357,
+   "Long":76.902803
+ },
+ {
+   "event_id": 53,
+   "event_name": "Football Manager",
+   "Day1": "9:30 - 16:00",
+   "Day2": "null",
+   "Day3": "null",
+   "Venue": "AB 2 C205",
+   "Lat":10.903849,
+   "Long":76.898360
+ },
+ {
+   "event_id": 54,
+   "event_name": "Shipwreck",
+   "Day1": "null",
+   "Day2": "null",
+   "Day3": "9:00 - 12:30",
+   "Venue": "AB 2 C205",
+   "Lat":10.903849,
+   "Long":76.898360
+ },
+ {
+   "event_id": 55,
+   "event_name": "Fundamentals of Energy Auditing",
+   "Day1": "09:30-17:30",
+   "Day2": "null",
+   "Day3": "null",
+   "Venue": "Gokulakrishna Hall, CIR block",
+   "Lat":10.904370,
+   "Long":76.901948
+ },
+ {
+   "event_id": 56,
+   "event_name": "Building Modelling and Project Scheduling using Revit and Primavera",
+   "Day1": "9:00-16:00",
+   "Day2": "9:00-16:00",
+   "Day3": "null",
+   "Venue": "CIR Lab ( 1st floor )",
+   "Lat":10.904370,
+   "Long":76.901948
+ },
+ {
+   "event_id": 57,
+   "event_name": "QUANTUM COMPUTING",
+   "Day1": "null",
+   "Day2": "null",
+   "Day3": "9:30-17:30",
+   "Venue": "Academic Block II, VLSI LAB (Second Floor)",
+   "Lat":10.903849,
+   "Long":76.898360
+ },
+ {
+   "event_id": 58,
+   "event_name": "REAL TIME OPERATION, CONTROL AND PROTECTION OF POWER SYSTEMS",
+   "Day1": "null",
+   "Day2": "09:00-16:00",
+   "Day3": "null",
+   "Venue": "AB2, Power Systems Lab",
+   "Lat":10.903849,
+   "Long":76.898360
+ },
+ {
+   "event_id": 59,
+   "event_name": "SOFT COMPUTING CONTROLLER USING MATLAB",
+   "Day1": "null",
+   "Day2": "null",
+   "Day3": "09:00-16:00",
+   "Venue": "AB2, IT Lab 2",
+   "Lat":10.903849,
+   "Long":76.898360
+ },
+ {
+   "event_id": 60,
+   "event_name": "CANSAT",
+   "Day1": "9:00 - 16:30",
+   "Day2": "9:00 - 16:30",
+   "Day3": "null",
+   "Venue": "AB1 W401",
+   "Lat":10.900357,
+   "Long":76.902803
+ },
+ {
+   "event_id": 61,
+   "event_name": "CATIA",
+   "Day1": "null",
+   "Day2": "9:00 - 16:30",
+   "Day3": "null",
+   "Venue": "AB1-W403",
+   "Lat":10.900357,
+   "Long":76.902803
+ },
+ {
+   "event_id": 62,
+   "event_name": "Machine learning to construct ‘complex’ algorithms",
+   "Day1": "null",
+   "Day2": "10:00 - 12:00",
+   "Day3": "null",
+   "Venue": "Acharya Hall (AB-1)",
+   "Lat":10.900357,
+   "Long":76.902803
+ },
+ {
+   "event_id": 63,
+   "event_name": "CISCO - BUILD YOUR CAREER IN CYBER SECURITY",
+   "Day1": "15:00-16:30",
+   "Day2": "null",
+   "Day3": "null",
+   "Venue": "AB2 - CP Lab 1",
+   "Lat":10.903849,
+   "Long":76.898360
+ },
+ {
+   "event_id": 64,
+   "event_name": "intel - Combining ML with IoT",
+   "Day1": "null",
+   "Day2": "9:00-16:00",
+   "Day3": "null",
+   "Venue": "AB 2 IT LAB 4",
+   "Lat":10.903849,
+   "Long":76.898360
+ },
+ {
+   "event_id": 65,
+   "event_name": "Cisco - Malware forensics",
+   "Day1": "9:00-16:00",
+   "Day2": "9:00-16:00",
+   "Day3": "null",
+   "Venue": "AB 1 CP LAB 1",
+   "Lat":10.900357,
+   "Long":76.902803
+ },
+ {
+   "event_id": 66,
+   "event_name": "24/7 AI - Machine Learning : A Real World Perspective",
+   "Day1": "null",
+   "Day2": "09:00 - 16:00",
+   "Day3": "09:00 - 16:00",
+   "Venue": "AB 2 IT LAB 4",
+   "Lat":10.903849,
+   "Long":76.898360
+ },
+ {
+   "event_id": 67,
+   "event_name": "CISCO -  IDEA BOX",
+   "Day1": "null",
+   "Day2": "null",
+   "Day3": "9:00-16:00",
+   "Venue": "AB 3 PG LAB",
+   "Lat":10.906228,
+   "Long":76.897900
+ },
+ {
+   "event_id": 68,
+   "event_name": "INTEL : Project Hacks - 'MAKE IT BETTER'",
+   "Day1": "09:00 - 16:00",
+   "Day2": "null",
+   "Day3": "null",
+   "Venue": "AB1 CP LAB 2",
+   "Lat":10.900357,
+   "Long":76.902803
+ },
+ {
+   "event_id": 69,
+   "event_name": "Nvidia - deeplearning",
+   "Day1": "9:00-16:00",
+   "Day2": "null",
+   "Day3": "null",
+   "Venue": "AB 2 IT LAB 3 (FIRST FLOOR)",
+   "Lat":10.903849,
+   "Long":76.898360
+ },
+ {
+   "event_id": 70,
+   "event_name": "MATH WORKS - Deep Learning with MATLAB",
+   "Day1": "null",
+   "Day2": "09:00 - 16:00",
+   "Day3": "null",
+   "Venue": "AB 2 IT LAB 1",
+   "Lat":10.903849,
+   "Long":76.898360
+ },
+ {
+   "event_id": 71,
+   "event_name": "Math Works - Model Based Design using Matlab/ Simulink and hardware Integration",
+   "Day1": "null",
+   "Day2": "09:00 - 16:00",
+   "Day3": "null",
+   "Venue": "AB 2 IT LAB 2",
+   "Lat":10.903849,
+   "Long":76.898360
+ },
+ {
+   "event_id": 72,
+   "event_name": "National Instruments LabVIEW",
+   "Day1": "09:00 - 17:00",
+   "Day2": "09:00 - 17:00",
+   "Day3": "null",
+   "Venue": "CIR Block, ELC - 2",
+   "Lat":10.904370,
+   "Long":76.901948
+ },
+ {
+   "event_id": 73,
+   "event_name": "Expert Talk 2",
+   "Day1": "12:00-15:00",
+   "Day2": "null",
+   "Day3": "null",
+   "Venue": "Ground stairs, Amriteshwari Hall",
+   "Lat":10.900555,
+   "Long":76.903682
+ },
+ {
+   "event_id": 74,
+   "event_name": "Expert Talk 3",
+   "Day1": "null",
+   "Day2": "12:00-13:00",
+   "Day3": "null",
+   "Venue": "Ground stairs, Amriteshwari Hall",
+   "Lat":10.900555,
+   "Long":76.903682
+ },
+ {
+   "event_id": 75,
+   "event_name": "Expert Talk 1",
+   "Day1": "10:15 -11:45",
+   "Day2": "null",
+   "Day3": "null",
+   "Venue": "Ground stairs, Amriteshwari Hall",
+   "Lat":10.900555,
+   "Long":76.903682
+ },
+ {
+   "event_id": 76,
+   "event_name": "ANSYS Structural Training using Workbench",
+   "Day1": "09:00 - 16:00",
+   "Day2": "09:00 - 16:00",
+   "Day3": "null",
+   "Venue": "CAD/CAM Lab, Academic Block 1",
+   "Lat":10.900357,
+   "Long":76.902803
+ },
+ {
+   "event_id": 77,
+   "event_name": "Ways of Welding",
+   "Day1": "null",
+   "Day2": "null",
+   "Day3": "08:00 - 16:00",
+   "Venue": "Welding Workshop, Near AB1",
+   "Lat":10.901486,
+   "Long":76.903450
+   
+ },
+ {
+   "event_id": 78,
+   "event_name": "Clean Diesel Technology",
+   "Day1": "10:00 - 15:00",
+   "Day2": "null",
+   "Day3": "null",
+   "Venue": "Seminar Hall 2, AB1",
+   "Lat":10.900357,
+   "Long":76.902803
+ }
+]

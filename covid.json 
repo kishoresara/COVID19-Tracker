@@ -1,0 +1,44 @@
+{
+	"raw_data": [
+		{
+			"agebracket": "20",
+			"backupnotes": "Student from Wuhan",
+			"contractedfromwhichpatientsuspected": "",
+			"currentstatus": "Recovered",
+			"dateannounced": "30/01/2020",
+			"detectedcity": "Thrissur",
+			"detecteddistrict": "Thrissur",
+			"detectedstate": "Kerala",
+			"estimatedonsetdate": "",
+			"gender": "F",
+			"nationality": "India",
+			"notes": "Travelled from Wuhan",
+			"patientnumber": "1",
+			"source1": "https://twitter.com/vijayanpinarayi/status/1222819465143832577",
+			"source2": "https://weather.com/en-IN/india/news/news/2020-02-14-kerala-defeats-coronavirus-indias-three-covid-19-patients-successfully",
+			"source3": "",
+			"statecode": "KL",
+			"statepatientnumber": "KL-TS-P1",
+			"statuschangedate": "14/02/2020",
+			"typeoftransmission": "Imported"
+		}
+		]
+
+
+
+
+		AIzaSyB2b2AVwJIS47fKGkf2rvPrBcMzLWCYSC8 - depricated
+
+
+		AIzaSyB47qXTeoW5NXYRFMRp_B6r3DG7q6VEN84   - new
+
+		https://maps.googleapis.com/maps/api/geocode/json?address=1600+Amphitheatre+Parkway, +Mountain+View,+CA&key=AIzaSyB2b2AVwJIS47fKGkf2rvPrBcMzLWCYSC8
+
+
+		https://maps.googleapis.com/maps/api/geocode/json?address=Anna+Nagar&key=AIzaSyB47qXTeoW5NXYRFMRp_B6r3DG7q6VEN84
+
+
+
+
+error:
+Error Domain=kCLErrorDomain Code=2 "(null)" 
